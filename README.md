@@ -8,6 +8,9 @@
   * [Rust for Rustaceans](https://rust-for-rustaceans.com)
 - Logic
   * [Gödel's Proof](https://nyupress.org/9780814758373/godels-proof/)
+  * [Homotopy Type Theory](https://homotopytypetheory.org/book/)
+  * [Category Theory](https://global.oup.com/academic/product/category-theory-9780199237180?cc=us&lang=en&)
+  * [Category Theory in Context](https://math.jhu.edu/~eriehl/context/)
 - Algorithms
   * [Farkas' lemma](https://en.wikipedia.org/wiki/Farkas%27_lemma)
   * [Simplex algorithm](https://en.wikipedia.org/wiki/Simplex_algorithm)
