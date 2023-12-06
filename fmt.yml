@@ -1,5 +1,11 @@
 ---
-title: Remy's Reading List
+title: To Read
 mainfont: sans-serif
+header-includes: |
+  <style>
+  ul, ol {
+      line-height: 1.5; /* Adjust the value as needed */
+  }
+  </style>
 ...
 
